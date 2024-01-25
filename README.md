@@ -5,6 +5,7 @@ JavaOpsPipeline is a sophisticated DevOps pipeline meticulously designed to faci
 ![Screenshot (184)](https://github.com/hardikkwatra/Jenkins_Project/assets/78718601/66e16eec-33f0-412d-a6cf-1444e07e6e21)
 
 STEPS:
+
 1.Fetch Code: This stage starts with the developer using Git to fetch code from GitHub.
 
 2.Unit Test and Checkstyle: The fetched code is then unit tested using Maven. Maven is also used to run Checkstyle, which is a static code analysis tool that helps to identify and report on potential coding errors, stylistic issues, and violations of coding standards.

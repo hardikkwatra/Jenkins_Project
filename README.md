@@ -1,6 +1,6 @@
 # Jenkins_Project
 INTRODUCTION:
-JavaOpsPipeline is a sophisticated DevOps pipeline meticulously designed to facilitate the development, testing, and deployment of Javabased applications, specifically tailored for a service-based restaurant website. The pipeline seamlessly integrates various tools and technologies, including Jenkins, SonarQube, Nexus, Maven, Docker, and AWS services (EC2, ELB, ECR, ECS), to ensure code quality, version control, and efficient deployment.
+JavaOpsPipeline is a sophisticated DevOps pipeline meticulously designed to facilitate the development, testing, and deployment of Java based applications, specifically tailored for a service-based restaurant website. The pipeline seamlessly integrates various tools and technologies, including Jenkins, SonarQube, Nexus, Maven, Docker, and AWS services (EC2, ELB, ECR, ECS), to ensure code quality, version control, and efficient deployment.
 
 ### **~~VERSIONING USING NEXUS~~**
 
